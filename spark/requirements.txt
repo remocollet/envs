@@ -1,0 +1,6 @@
+pyspark[sql,pandas_on_spark,connect]~=3.5.1
+pandas~=2.2.2
+matplotlib~=3.8.4
+ipykernel~=6.29.4
+jupyter~=1.0.0
+plotly~=5.22.0
